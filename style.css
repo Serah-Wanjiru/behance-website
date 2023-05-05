@@ -1,0 +1,130 @@
+*{
+    list-style: none;
+}
+
+.body{
+    background-color: rgb(138, 126, 187);
+   
+}
+.w1{
+   font-size: 200%;
+}
+.ab ul li{
+    list-style: none;
+    padding: 3px;
+    display: inline;
+    margin: 1rem;
+   
+
+
+}
+.words{
+    font-size: 150%;
+    color: white;
+
+}
+.pic{
+    width: 40%;
+    height: 40%;
+    padding-left: 60%;
+}
+.move{
+    display: flex;
+    
+   
+}
+.words{
+    padding-left: 5%;
+    font: 400%;
+}
+.w2{
+    font-size: 200%;
+}
+.girls{
+    display: flex;
+    gap: 50px;
+}
+.btn{
+    text-align: center;
+}
+.v{
+    display: flex;
+}
+.q{
+    top: -500px;
+}
+.i{
+    height:100%;
+}
+.word{
+    text-align: center;
+    
+}
+.v6{
+    display: flex;
+    gap: 120px;
+    list-style: none;
+}
+.btn3{
+    padding: 20px;
+    background-color: palevioletred;
+}
+.btn4{
+    padding: 20px;
+    background-color: palevioletred;
+    width: 200px;
+
+}
+.v7{
+    text-align: center;
+}
+.nj{
+    padding: 10px;
+    width: 200px;
+}
+@media all and (min-width:1024px) and (max-width:1280px){
+
+}
+@media all and (min-width:768px) and (max-width:1024px){
+
+}
+@media all and (min-width:480px) and (max-width:768px){
+
+}
+@media all and (min-width:480px) {
+
+}
+@media only screen and(min-width:40.063em) and (max-width:64em){
+
+}
+@media only screen and (min-width:64.063em) and (max-width:90em){
+
+}
+@media only screen and(min-width:90.063em) and (max-width:120em){
+
+}
+@media only screen and (min-width:120.063em){
+    
+}
+@media screen and (oriented:portrait){
+
+}
+
+@media screen and (oriented:landscape){
+
+}
+@media  screen and(mix-device-width:480px) and (oriented:potrait){
+
+}
+@media  screen and(max-device-width:480px) and (oriented:landscape){
+
+
+}
+@media screen and (min-device-width:481px) and (orientation:portrait){
+
+}
+@media screen and (min-device-width:481px) and (orientation:landscape){
+    
+}
+
+
